@@ -1,0 +1,185 @@
+{
+  "cafe-aria": {
+    "name": "آریا",
+    "englishName": "ARIA",
+    "logo": "/images/cafes/aria/logo.jpg",
+    "address": "اردبیل , خیابان دانش نرسیده به چهارراه حافظ روبروی فروشگاه هفت",
+    "instagram": "https://www.instagram.com/caribou_coffee.68",
+    "theme": {
+      "textPrimary": "#FFF9E6",
+      "surface": "#1F5C4D",
+      "footer": "#052821",
+      "primary": "#0C3B2E",
+      "border": "#FFF9E6",
+      "border2": "#869A8A"
+    },
+    "heroImage": "/images/cafes/aria/hero.jpg",
+    "homeImage": "/images/cafes/aria/home.jpg",
+    "menu": {
+      "coffee": {
+        "title": "قهوه",
+        "image": "/images/cafes/aria/categories/c1.jpg",
+        "items": [
+          {
+            "title": "لاته",
+            "price": "120,000",
+            "image": "/images/cafes/aria/items/1.jpg"
+          },
+          {
+            "title": "کاپوچینو",
+            "price": "110,000",
+            "image": "/images/cafes/aria/capp.jpg"
+          }
+        ]
+      },
+      "tea": {
+        "title": "چای",
+        "image": "/images/cafes/aria/categories/tea.jpg",
+        "items": [
+          {
+            "title": "چای ماسالا",
+            "price": "90,000",
+            "image": "/images/cafes/aria/masala.jpg"
+          }
+        ]
+      }
+    }
+  },
+  "caribou": {
+    "name": "آریا",
+    "englishName": "ARIA",
+    "logo": "/images/cafes/aria/logo.jpg",
+    "address": "اردبیل , خیابان دانش نرسیده به چهارراه حافظ روبروی فروشگاه هفت",
+    "theme": {
+      "textPrimary": "#F9EFE3",
+      "surface": "#6B4F3A",
+      "footer": "#3B2A21",
+      "primary": "#A57548",
+      "border": "#F9EFE3",
+      "border2": "#C8A98A"
+    },
+    "heroImage": "/images/cafes/aria/hero.jpg",
+    "homeImage": "/images/cafes/aria/home.jpg",
+    "menu": {
+      "coffee": {
+        "title": "قهوه",
+        "image": "/images/cafes/aria/categories/c1.jpg",
+        "items": [
+          {
+            "title": "لاته",
+            "price": "120,000",
+            "image": "/images/cafes/aria/items/1.jpg"
+          },
+          {
+            "title": "کاپوچینو",
+            "price": "110,000",
+            "image": "/images/cafes/aria/capp.jpg"
+          }
+        ]
+      },
+      "tea": {
+        "title": "چای",
+        "image": "/images/cafes/aria/categories/tea.jpg",
+        "items": [
+          {
+            "title": "چای ماسالا",
+            "price": "90,000",
+            "image": "/images/cafes/aria/masala.jpg"
+          }
+        ]
+      }
+    }
+  },
+   "milad": {
+    "name": "milad",
+    "englishName": "ARIA",
+    "logo": "/images/cafes/aria/logo.jpg",
+    "address": "تهران",
+    "theme": {
+      "textPrimary": "#F9EFE3",
+      "surface": "#6B4F3A",
+      "footer": "#3B2A21",
+      "primary": "#A57548",
+      "border": "#F9EFE3",
+      "border2": "#C8A98A"
+    },
+    "heroImage": "/images/cafes/aria/hero.jpg",
+    "homeImage": "/images/cafes/aria/home.jpg",
+    "menu": {
+      "coffee": {
+        "title": "قهوه",
+        "image": "/images/cafes/aria/categories/c1.jpg",
+        "items": [
+          {
+            "title": "لاته",
+            "price": "120,000",
+            "image": "/images/cafes/aria/items/1.jpg"
+          },
+          {
+            "title": "کاپوچینو",
+            "price": "110,000",
+            "image": "/images/cafes/aria/capp.jpg"
+          }
+        ]
+      },
+      "tea": {
+        "title": "چای",
+        "image": "/images/cafes/aria/categories/tea.jpg",
+        "items": [
+          {
+            "title": "چای ماسالا",
+            "price": "90,000",
+            "image": "/images/cafes/aria/masala.jpg"
+          }
+        ]
+      }
+    }
+  },
+   "zahra": {
+    "name": "زهرا",
+    "englishName": "ZAHRA",
+    "logo": "/images/cafes/aria/logo.jpg",
+    "address": "ارد",
+    "theme": {
+      "textPrimary": "#F9EFE3",
+      "surface": "#6B4F3A",
+      "footer": "#3B2A21",
+      "primary": "#A57548",
+      "border": "#F9EFE3",
+      "border2": "#C8A98A"
+    },
+    "heroImage": "/images/cafes/aria/hero.jpg",
+    "homeImage": "/images/cafes/aria/home.jpg",
+    "menu": {
+      "coffee": {
+        "title": "قهوه",
+        "image": "/images/cafes/aria/categories/c1.jpg",
+        "items": [
+          {
+            "title": "لاته",
+            "price": "120,000",
+            "image": "/images/cafes/aria/items/1.jpg"
+          },
+          {
+            "title": "کاپوچینو",
+            "price": "110,000",
+            "image": "/images/cafes/aria/capp.jpg"
+          }
+        ]
+      },
+      "tea": {
+        "title": "چای",
+        "image": "/images/cafes/aria/categories/tea.jpg",
+        "items": [
+          {
+            "title": "چای ماسالا",
+            "price": "90,000",
+            "image": "/images/cafes/aria/masala.jpg"
+          }
+        ]
+      }
+    }
+  }
+
+  
+}

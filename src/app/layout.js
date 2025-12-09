@@ -1,6 +1,6 @@
-import Header from "@/components/home/Header";
+
 import "./globals.css";
-import Footer from "@/components/home/Footer";
+
 
 export const metadata = {
   title: "CARIBOU",
@@ -21,11 +21,11 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body
-        className={`font-vazir antialiased bg-primary`}
+        className={`font-vazir antialiased  `}
       >
-        <Header />
+        {/* <Header /> */}
         {children}
-        <Footer />
+        {/* <Footer /> */}
       </body>
     </html>
   );
