@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body
-        className={`font-vazir antialiased  `}
+        className={`font-vazir antialiased`}
       >
         {/* <Header /> */}
         {children}

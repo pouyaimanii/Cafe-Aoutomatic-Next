@@ -90,96 +90,1185 @@
       }
     }
   },
-   "milad": {
-    "name": "milad",
-    "englishName": "ARIA",
-    "logo": "/images/cafes/aria/logo.jpg",
-    "address": "تهران",
+   "neoma": {
+    "name": "نئوما",
+    "englishName": "NEOMA",
+    "logo": "/images/cafes/neoma/neoma1.jpg",
+    "address": "اردبیل , شهرک رضوان ",
     "theme": {
-      "textPrimary": "#F9EFE3",
-      "surface": "#6B4F3A",
-      "footer": "#3B2A21",
-      "primary": "#A57548",
+      "textPrimary": "#FFFFFF",
+      "surface": "#0C1014",
+      "footer": "#242424",
+      "primary": "#0C1014",
       "border": "#F9EFE3",
       "border2": "#C8A98A"
     },
-    "heroImage": "/images/cafes/aria/hero.jpg",
-    "homeImage": "/images/cafes/aria/home.jpg",
+    "heroImage": "/images/cafes/neoma/moon1.png",
+    "homeImage": "/images/cafes/neoma/moon2.png",
     "menu": {
       "coffee": {
-        "title": "قهوه",
-        "image": "/images/cafes/aria/categories/c1.jpg",
+        "title": "اسپرسو",
+        "image": "/images/cafes/neoma/sperso1.png",
         "items": [
           {
-            "title": "لاته",
-            "price": "120,000",
-            "image": "/images/cafes/aria/items/1.jpg"
+            "title": "اسپرسو روبوستا",
+            "price": "92,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
           },
           {
-            "title": "کاپوچینو",
-            "price": "110,000",
-            "image": "/images/cafes/aria/capp.jpg"
-          }
-        ]
-      },
-      "tea": {
-        "title": "چای",
-        "image": "/images/cafes/aria/categories/tea.jpg",
-        "items": [
-          {
-            "title": "چای ماسالا",
-            "price": "90,000",
-            "image": "/images/cafes/aria/masala.jpg"
-          }
-        ]
-      }
-    }
-  },
-   "zahra": {
-    "name": "زهرا",
-    "englishName": "ZAHRA",
-    "logo": "/images/cafes/aria/logo.jpg",
-    "address": "ارد",
-    "theme": {
-      "textPrimary": "#F9EFE3",
-      "surface": "#6B4F3A",
-      "footer": "#3B2A21",
-      "primary": "#A57548",
-      "border": "#F9EFE3",
-      "border2": "#C8A98A"
-    },
-    "heroImage": "/images/cafes/aria/hero.jpg",
-    "homeImage": "/images/cafes/aria/home.jpg",
-    "menu": {
-      "coffee": {
-        "title": "قهوه",
-        "image": "/images/cafes/aria/categories/c1.jpg",
-        "items": [
-          {
-            "title": "لاته",
-            "price": "120,000",
-            "image": "/images/cafes/aria/items/1.jpg"
+            "title": "اسپرسو عربیکا",
+            "price": "108,000",
+            "image": "/images/cafes/neoma/arabi.png"
           },
-          {
-            "title": "کاپوچینو",
-            "price": "110,000",
-            "image": "/images/cafes/aria/capp.jpg"
-          }
-        ]
-      },
-      "tea": {
-        "title": "چای",
-        "image": "/images/cafes/aria/categories/tea.jpg",
-        "items": [
-          {
-            "title": "چای ماسالا",
-            "price": "90,000",
-            "image": "/images/cafes/aria/masala.jpg"
-          }
-        ]
-      }
-    }
-  }
 
-  
+           {
+            "title": "آمریکانو روبوستا",
+            "price": "92,000",
+            "image": "/images/cafes/neoma/americ robosta.png"
+          },
+           {
+            "title": "آمریکانو عربیکا",
+            "price": "108,000",
+            "image": "/images/cafes/neoma/americ.png"
+          },
+           {
+            "title": "لاته",
+            "price": "113,000",
+            "image": "/images/cafes/neoma/latte.jpeg"
+          },
+           {
+            "title": "آروما لاته",
+            "price": "123,000",
+            "image": "/images/cafes/neoma/monvy.jpeg"
+          },
+           {
+            "title": "کاپوچینو",
+            "price": "113,000",
+            "image": "/images/cafes/neoma/aromla.png"
+          },
+           {
+            "title": "آروما کاپوچینو",
+            "price": "123,000",
+            "image": "/images/cafes/neoma/cop.png"
+          },
+           {
+            "title": "لاته ماکیاتو",
+            "price": "113,000",
+            "image": "/images/cafes/neoma/lamac.jpeg"
+          },
+           {
+            "title": "آروما ماکیاتو",
+            "price": "123,000",
+            "image": "/images/cafes/neoma/aromac.png"
+          },
+           {
+            "title": "موکا",
+            "price": "123,000",
+            "image": "/images/cafes/neoma/moc.png"
+          },
+           {
+            "title": "آیریش",
+            "price": "123,000",
+            "image": "/images/cafes/neoma/ii.png"
+          },
+           {
+            "title": "رومانو",
+            "price": "100,000",
+            "image": "/images/cafes/neoma/rom.png"
+          }
+
+        ]
+      },
+      "tea": {
+        "title": "چای و دمنوش",
+        "image": "/images/cafes/neoma/chai/chaii.png",
+        "items": [
+          {
+            "title": "چای سبز",
+            "price": "80,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+          {
+            "title": "چای ترش",
+            "price": "80,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+          {
+            "title": "به لیمو",
+            "price": "80,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+         {
+            "title": "گل گاوزبان",
+            "price": "80,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+          {
+            "title": "هل دارچین",
+            "price": "83,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+          {
+            "title": "مون لایت",
+            "price": "90,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+         {
+            "title": "موروکو",
+            "price": "90,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+         {
+            "title": "کالمو",
+            "price": "90,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+          {
+            "title": "دمنوش سرماخوردگی",
+            "price": "90,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+          {
+            "title": "دمنوش آرامبخش ",
+            "price": "90,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+          {
+            "title": "دمنوش نشاط",
+            "price": "90,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          }
+        ]
+      },
+       "vegas coffee ": {
+        "title": "وگاس کافی ",
+        "image": "/images/cafes/neoma/sperso1.png",
+        "items": [
+          {
+            "title": "وگاس کلاسیک",
+            "price": "95,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "وگاس سیب",
+            "price": "105,000",
+            "image": "/images/cafes/neoma/arabi.png"
+          },
+
+           {
+            "title": "وگاس انبه",
+            "price": "105,000",
+            "image": "/images/cafes/neoma/americ robosta.png"
+          },
+           {
+            "title": "وگاس آلبالو",
+            "price": "105,000",
+            "image": "/images/cafes/neoma/americ.png"
+          },
+           {
+            "title": "وگاس هلو",
+            "price": "105,000",
+            "image": "/images/cafes/neoma/latte.jpeg"
+          },
+           {
+            "title": "وگاس پرتغال",
+            "price": "105,000",
+            "image": "/images/cafes/neoma/monvy.jpeg"
+          },
+           {
+            "title": "وگاس آناناس انبه",
+            "price": "120,000",
+            "image": "/images/cafes/neoma/aromla.png"
+          }
+        
+        ]
+      },
+       "smoothy ": {
+        "title": "اسموتی ",
+        "image": "/images/cafes/neoma/sperso1.png",
+        "items": [
+          {
+            "title": "کینگ بری ",
+            "price": "150,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "استوابی ",
+            "price": "180,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "زمستان ",
+            "price": "160,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "منگو بری  ",
+            "price": "190,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+        ]
+      },
+       "milkshake ": {
+        "title": "میلک شیک ",
+        "image": "/images/cafes/neoma/sperso1.png",
+        "items": [
+          {
+            "title": " کلاسیک",
+            "price": "130,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "نسکافه",
+            "price": "140,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "کیت کت",
+            "price": "140,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "اورئو",
+            "price": "140,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "بادام زمینی",
+            "price": "140,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "موز شکلات",
+            "price": "145,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "موز توت فرنگی",
+            "price": "150,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "شیک قهوه",
+            "price": "140,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "شیک گلدن",
+            "price": "160,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "شیک مانستر",
+            "price": "160,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "چانکی مانکی",
+            "price": "160,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+      
+          
+        ]
+      },
+       "ice coffe ": {
+        "title": "آیس کافی  ",
+        "image": "/images/cafes/neoma/sperso1.png",
+        "items": [
+          {
+            "title": "آیس امریکانو  روبوستا",
+            "price": "95,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },{
+            "title": "آیس کافی عربیکا",
+            "price": "110,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "تونیک قهوه",
+            "price": "95,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "کن هیلو",
+            "price": "95,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آیس لاته",
+            "price": "113,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آیس آروما لاته",
+            "price": "123,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آیس موکا",
+            "price": "123,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آیس ماکیاتو",
+            "price": "113,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آیس آروما ماکیاتو",
+            "price": "113,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آیس رومانو",
+            "price": "103,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "بلیز",
+            "price": "130,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "فراپاچینو",
+            "price": "130,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+          
+          
+        ]
+      },
+       "hot dessert ": {
+        "title": "دسر گرم ",
+        "image": "/images/cafes/neoma/sperso1.png",
+        "items": [
+          {
+            "title": "شکلاتی",
+            "price": "105,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آفوچاکلت",
+            "price": "118,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "بیسکوییتی",
+            "price": "108,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "شکلات توت فرنگی",
+            "price": "125,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "موزشکلات",
+            "price": "120,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "اسپشیال دسر",
+            "price": "140,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+        
+        ]
+      },
+       "affogato ": {
+        "title": "آفوگاتو ",
+        "image": "/images/cafes/neoma/sperso1.png",
+        "items": [
+          {
+            "title": "آفوگاتو",
+            "price": "115,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آروما آفوگاتو",
+            "price": "135,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+           {
+            "title": "آفوگاتو شکلاتی",
+            "price": "135,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آفوگاتو بادام",
+            "price": "145,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آفوگاتو میوه ای",
+            "price": "155,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+          
+        ]
+      },
+       "mocktail ": {
+        "title": "ماکتل ",
+        "image": "/images/cafes/neoma/sperso1.png",
+        "items": [
+          {
+            "title": "لیموناد",
+            "price": "110,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "موهیتو",
+            "price": "125,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "اوشن",
+            "price": "120,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "ردبریز",
+            "price": "125,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "سامروایب",
+            "price": "115,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "ردپول",
+            "price": "125,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "ماکتل روز",
+            "price": "",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+
+
+        ]
+      },
+       "cake ": {
+        "title": "کیک ",
+        "image": "/images/cafes/neoma/sperso1.png",
+        "items": [
+          {
+            "title": "کیک شکلاتی",
+            "price": "110,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "کیک بستنی روز",
+            "price": "150,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "چیز کیک روز",
+            "price": "105,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "کیک روز ",
+            "price": "",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+        ]
+      },
+       "braekfast ": {
+        "title": "صبحانه",
+        "image": "/images/cafes/neoma/sperso1.png",
+        "items": [
+          {
+            "title": "نیمرو ساده",
+            "price": "95,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "نیمرو سوسیسس",
+            "price": "105,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "نیمرو قارچ و پنیر",
+            "price": "115,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "املت",
+            "price": "100,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "املت سبزیجات",
+            "price": "110,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "املت پنیر گودا",
+            "price": "115,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "املت سوسیس",
+            "price": "120,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "املت گاردن",
+            "price": "210,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "املت ویژه نئوما",
+            "price": "160,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "اوتمیل",
+            "price": "105,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+        ]
+      },
+       " salad ": {
+        "title": "سالاد ",
+        "image": "/images/cafes/neoma/sperso1.png",
+        "items": [
+          {
+            "title": "سالاد گاردن",
+            "price": "125,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "سالاد تند",
+            "price": "140,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "سالاد سزار",
+            "price": "200,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+          
+        ]
+      },
+      "pasta ": {
+        "title": "پاستا ",
+        "image": "/images/cafes/neoma/sperso1.png",
+        "items": [
+          {
+            "title": "چیکن روسو",
+            "price": "200,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "چیکن آلفردو",
+            "price": "220,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "پاستا پستو",
+            "price": "230,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آلفردو سبزیجات",
+            "price": "180,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "پاستا چیکن عربیتا(تند)",
+            "price": "200,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+          
+        ]
+      },
+       
+       "burger ": {
+        "title": "برگر ",
+        "image": "/images/cafes/neoma/sperso1.png",
+        "items": [
+          {
+            "title": "چیکن رست",
+            "price": "200,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "کلاسیک برگر",
+            "price": "210,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "چیزبرگر",
+            "price": "220,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آۀفردو برگر",
+            "price": "250,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "دبل کلاسیک برگر",
+            "price": "290,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "دبل چیز برگر",
+            "price": "310,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "سوپریم برگر",
+            "price": "300,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "برگر هالوپینو",
+            "price": "230,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+          
+        ]
+      }
+    }
+   
+  },
+   "noorbakery": {
+    "name": "نور",
+    "englishName": "Noor",
+    "logo": "/images/cafes/nor/logo.png",
+    "address": "اردبیل ",
+    "theme": {
+      "textPrimary": "#04070A",
+      "surface": "#F0A848 ",
+      "footer": "#F29207",
+      "primary": "#EB8E1D",
+      "border": "#F9EDD6",
+      "border2": "#B78752"
+    },
+    "heroImage": "/images/cafes/nor/st.png",
+    "homeImage": "/images/cafes/nor/cr.png",
+    "menu": {
+      " tea ": {
+        "title": "چای و دم نوش",
+        "image": "/images/cafes/nor/ttt.png",
+        "items": [
+          {
+            "title": "چای استکان",
+            "price": "25,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "چای لیوانی",
+            "price": "60,000",
+            "image": "/images/cafes/neoma/arabi.png"
+          },
+           {
+            "title": "چای عسل",
+            "price": "50,000",
+            "image": "/images/cafes/neoma/americ robosta.png"
+          },
+           {
+            "title": "چای دارچین",
+            "price": "40,000",
+            "image": "/images/cafes/neoma/americ.png"
+          },
+           {
+            "title": "چای زنجبیل",
+            "price": "40,000",
+            "image": "/images/cafes/neoma/latte.jpeg"
+          },
+           {
+            "title": "چای مربا",
+            "price": "80,000",
+            "image": "/images/cafes/neoma/monvy.jpeg"
+          },
+           {
+            "title": "چای هل وانیل",
+            "price": "60,000",
+            "image": "/images/cafes/neoma/aromla.png"
+          },
+           {
+            "title": "دم نوش آرامش",
+            "price": "100,000",
+            "image": "/images/cafes/neoma/cop.png"
+          },
+           {
+            "title": "دم نوش جوان",
+            "price": "150,000",
+            "image": "/images/cafes/neoma/lamac.jpeg"
+          }
+
+        ]
+      },
+      "hot drink": {
+        "title": "نوشیدنی گرم",
+        "image": "/images/cafes/nor/hot.png",
+        "items": [
+          {
+            "title": "هات چاکلت",
+            "price": "165,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+          {
+            "title": "هات فندوق",
+            "price": "185,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+          {
+            "title": "هات گردو",
+            "price": "200,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+         {
+            "title": "شیر کاکائو",
+            "price": "150,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          },
+          {
+            "title": "ماسالا",
+            "price": "140,000",
+            "image": "/images/cafes/neoma/chai/chaii.png"
+          }
+        ]
+      },
+       "matcha bar ": {
+        "title": "ماچا بار ",
+        "image": "/images/cafes/nor/ma.png",
+        "items": [
+          {
+            "title": "ماچالته/آیس",
+            "price": "150,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "ماچالته سیروپ/آیس",
+            "price": "195,000",
+            "image": "/images/cafes/neoma/arabi.png"
+          },
+
+           {
+            "title": "آیس پینک ماچا",
+            "price": "210,000",
+            "image": "/images/cafes/neoma/americ robosta.png"
+          },
+           {
+            "title": "ماچا عسل",
+            "price": "180,000",
+            "image": "/images/cafes/neoma/americ.png"
+          }
+        ]
+      },
+       "coffe": {
+        "title": "قهوه 80/20 ",
+        "image": "/images/cafes/nor/coffe.png",
+        "items": [
+          {
+            "title": "اسپرسو ",
+            "price": "115,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "آمریکانو/آیس ",
+            "price": "115,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "لته/آیس ",
+            "price": "155,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "لته دارچین ",
+            "price": "175,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "لته سیروپ  ",
+            "price": "200,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "کاپوچینو ",
+            "price": "155,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "موکا ",
+            "price": "195,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "کارامل ماکیاتو ",
+            "price": "195,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "کورتادو ",
+            "price": "135,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "قهوه ترک ",
+            "price": "115,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "قهوه فرانسه ",
+            "price": "170,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+        ]
+      },
+       "cold drink ": {
+        "title": "نوشیدنی سرد ",
+        "image": "/images/cafes/nor/lim.png",
+        "items": [
+          {
+            "title": " لیموناد",
+            "price": "115,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "موهیتو",
+            "price": "135,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "شربت آیدا",
+            "price": "120,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "شربت زعفران",
+            "price": "160,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "اسموتی ترش",
+            "price": "180,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+          
+        ]
+      },
+       "ice cream based ": {
+        "title": "برپایه بستنی  ",
+        "image": "/images/cafes/nor/shake.png",
+        "items": [
+          {
+            "title": "شیک نوتلا",
+            "price": "230,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },{
+            "title": "کیک بستنی",
+            "price": "210,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آفوگاتو",
+            "price": "195,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+        ]
+      },
+       "bakery ": {
+        "title": "بیکری ",
+        "image": "/images/cafes/nor/cccr.jpeg",
+        "items": [
+          {
+            "title": "کروسان ساده",
+            "price": "90,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "کروسان شکلاتی",
+            "price": "119,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "کروسان کارامل",
+            "price": "119,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "کروسان نوتلا",
+            "price": "220,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "کروسان لوتوس",
+            "price": "209,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "رول دارچین",
+            "price": "120,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "رول نوتلا",
+            "price": "240,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "رول لوتوس",
+            "price": "220,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "رول کارامل گردو",
+            "price": "170,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+        ]
+      },
+       "pastry ": {
+        "title": "پیستری ",
+        "image": "/images/cafes/nor/pas.jpeg",
+        "items": [
+          {
+            "title": "تیرامیسو کلاسیک",
+            "price": "135,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "چیز کیک سن سباستین",
+            "price": "170,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+           {
+            "title": "کرم کارامل",
+            "price": "145,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "تارت توت فرنگی",
+            "price": "250,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "تارت روز(متفاوت)",
+            "price": "---",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+          
+        ]
+      },
+       "breakfast ": {
+        "title": "صبحانه ",
+        "image": "/images/cafes/nor/baa.png",
+        "items": [
+          {
+            "title": "کره نوربا",
+            "price": "149,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "بشقاب ایرانی",
+            "price": "205,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }, 
+          {
+            "title": "بشقاب فرانسوی",
+            "price": "375,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "خوراک لوبیا",
+            "price": "209,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "کروسان بیکن",
+            "price": "250,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "کروسان سبزیجات",
+            "price": "150,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "نان",
+            "price": "15000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آب پرتغال",
+            "price": "50,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "تخم مرغ",
+            "price": "15,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "شیرداغ",
+            "price": "25,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+
+
+        ]
+      },
+       "omelette bar ": {
+        "title": "املت بار ",
+        "image": "/images/cafes/nor/om.png",
+        "items": [
+          {
+            "title": "نیمرو",
+            "price": "98,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "نیمرو سوسیس",
+            "price": "138,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "املت ساده",
+            "price": "110,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "املت سوسیس",
+            "price": "138,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "املت نور",
+            "price": "225,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "املت گوشت",
+            "price": "249,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "املت پپرونی",
+            "price": "138,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+        ]
+      },
+       "iranian food": {
+        "title": "غذای ایرانی",
+        "image": "/images/cafes/nor/z.png",
+        "items": [
+          {
+            "title": "زرشک پلو",
+            "price": "295,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "خوراک مرغ",
+            "price": "238,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": " کباب تابه ای",
+            "price": "340,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "استانبولی",
+            "price": "238,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "سوپ خامه ای",
+            "price": "95,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "سالاد شیرازی",
+            "price": "60,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+        ]
+      },
+       " french food ": {
+        "title": "غذای فرانسوی ",
+        "image": "/images/cafes/nor/sss.png",
+        "items": [
+          {
+            "title": "استیک مرغ",
+            "price": "420,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "بشقاب اردک",
+            "price": "650,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "پنینی مرغ دیژون",
+            "price": "290,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "فرنچ فرایز",
+            "price": "95,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "فرنچ فرایز+دیپ قارچ بشامل",
+            "price": "170,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "سالاد شیرازی فرانسوی",
+            "price": "345,000",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+        ]
+      },
+      "drink ": {
+        "title": "نوشیدنی کنار غذا ",
+        "image": "/images/cafes/nor/shish.png",
+        "items": [
+          {
+            "title": "نوشابه زمزم مشکی",
+            "price": "-",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "نوشابه زمزم پرتغالی",
+            "price": "-",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "لیموناد زمزم",
+            "price": "-",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "لیمو سودا",
+            "price": "-",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "دوغ آبعلی",
+            "price": "-",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          },
+          {
+            "title": "آب معدنی",
+            "price": "-",
+            "image": "/images/cafes/neoma/robosta.jpeg"
+          }
+          
+        ]
+      }
+    }
+   
+  } 
 }
