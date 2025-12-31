@@ -1,11 +1,15 @@
 import cafes from "@/data/cafes.json";
 import { Icon } from '@iconify/react';
-
-
-
 import Image from "next/image";
 import { Button } from "@/components/ui/button"
 import Link from 'next/link';
+
+
+
+
+
+
+
 export default function CafePage({ params }) {
     const cafe = cafes[params.cafe];
 
@@ -48,7 +52,7 @@ export default function CafePage({ params }) {
                 <div className="my-24 ">
                     <div className="grid grid-cols-1 justify-items-center  md:flex md:justify-between ">
                         <div className='order-1 md:order-2 mx-4 md:mx-0 mb-8 md:mb-0'>
-                            <Image src={cafe.heroImage} alt="hirosection" width="600" height="600" />
+                            <Image src={cafe.heroImage} className="rounded-3xl" alt="hirosection" width="600" height="600" />
                         </div>
 
 
@@ -107,7 +111,7 @@ export default function CafePage({ params }) {
                         <Image src="/images/19.png" className='rotate-90' alt='coffe' width="300" height="300" />
                     </div>
                     <div className='mx-4'>
-                        <Image src={cafe.homeImage} alt='cofe' width={500} height={500} />
+                        <Image src={cafe.homeImage} className="rounded-3xl" alt='cofe' width={500} height={500} />
                     </div>
                 </div>
 
